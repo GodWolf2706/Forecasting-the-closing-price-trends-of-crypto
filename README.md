@@ -1,0 +1,1 @@
+Use GRU, HMM, ETS, LSTM, LR, RNN, ARIMA, DLM, and RF algorithms to train data, test data, and produce results to predict the future close price of BNB-BTC-ETH (this is only test code and is for research as a learning project, NOT FOR REAL APPLICATION)
